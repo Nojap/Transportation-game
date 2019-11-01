@@ -38,6 +38,7 @@ v.9
 v1.0
 1. Implement upgrades (e.g. cbtc)
 2. Implement time properly (e.g. schedule based on clock hours and time of day, aging of vehicles, have vehicles moving around on the map in accordance with the current time, ability to speed through time)
+3. Allow for importing of timetables .gson and to implement these on one of the game maps
 
 v1.x
 1. Implement political pressures
